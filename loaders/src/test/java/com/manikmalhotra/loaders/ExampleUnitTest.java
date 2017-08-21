@@ -1,4 +1,4 @@
-package ca.cannabisfastexpress.loaders;
+package com.manikmalhotra.loaders;
 
 import org.junit.Test;
 
