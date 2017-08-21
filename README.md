@@ -1,8 +1,6 @@
 # circular-loaders
 Two simple loaders, to show any progress.
 
-## GIF
-
 ### Build
 ##### Step 1. Add the JitPack repository to your build file
 ```build
