@@ -1,4 +1,4 @@
-package com.manikmalhotra.customcircularloader;
+package ca.cannabisfastexpress.loaders;
 
 import android.app.Dialog;
 import android.content.Context;

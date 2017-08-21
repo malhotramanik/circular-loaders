@@ -3,6 +3,8 @@ package com.manikmalhotra.customcircularloader;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import ca.cannabisfastexpress.loaders.RotateImageLoader;
+
 public class MainActivity extends AppCompatActivity
 {
 
