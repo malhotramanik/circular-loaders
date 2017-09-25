@@ -15,7 +15,7 @@ allprojects {
 ##### Step 2. Add the dependency
 ```build
 dependencies {
-	compile 'com.github.manik2842:circular-loaders:1.4'
+	compile 'com.github.manik2842:circular-loaders:1.5'
 }
 ```
 
